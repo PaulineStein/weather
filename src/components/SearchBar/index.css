@@ -1,0 +1,25 @@
+.input-search-bar {
+    font-size: 18px;
+    width: 500px;
+    border-width: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    padding: 8px 10px;
+}
+
+.button-search-bar {
+    background-color: var(--orange);
+    border-width: 0px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 8px 10px;
+}
+
+.button-search-bar:hover {
+    cursor: pointer;
+}
+
+.logo-search {
+    width: 17px;
+    height: auto;
+}

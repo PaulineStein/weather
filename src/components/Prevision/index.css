@@ -1,0 +1,17 @@
+.prevision {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 120px 100px;
+    color: var(--grey);
+}
+
+.location-time {
+    margin-block: 25px;
+}
+
+.set-card {
+    display: flex;
+    flex-direction: row;
+    gap: 160px;
+}

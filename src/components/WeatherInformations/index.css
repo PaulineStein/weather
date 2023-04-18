@@ -1,0 +1,27 @@
+.weather-informations {
+    position: relative;
+    padding: 60px 135px;
+    background-color: var(--grey);
+    color: var(--white);
+}
+
+.informations-title {
+    position: absolute;
+    top: 22px;
+    left: 15px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.set-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
